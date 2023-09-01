@@ -1,6 +1,6 @@
 
 ## 🔗 Links
-[![Live Website](https://img.shields.io/badge/Live_Website_Blogbucket-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://fitnessclub-app.vercel.app/)
+[![Live Website](https://img.shields.io/badge/Live_Website_Fitness_app-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://fitnessclub-app.vercel.app/)
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://farhan-shikalgar.vercel.app/)
